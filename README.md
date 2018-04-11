@@ -21,7 +21,7 @@ Best,
 [Instructor Name]"
 ```
 
-#### If the student has not finished Hashketball
+### If the student has not finished Hashketball
 
 In the event that the student has not finished the Hashketball lab prior to your check-in, use this time to gauge where the student is currently. Ask them which lab they are currently on and have them try to review and explain their code for that lab instead.
 
@@ -41,9 +41,9 @@ Students may also use `.each` and push all the odd numbers into a new array whic
 Following this review, schedule another check-in with the student no later than Friday morning of that week. This will allow enough time for communication between admissions and the student. If the student is still not up to pace, the student may need to defer to a later date. Use the information gathered from this check-in and their position in the pre-work to help dictate how much time to give the student before the next check-in. Emphasize the importance of getting through Hashketball prior to the next check-in. Follow up with the manager of faculty with that campus with the feedback from this check-in and the newly scheduled follow-up check-in. 
 
 
-### Hashketball Review
+## Hashketball Review
 
-##### Overview
+### Overview
 
 Pre-work check-ins should only last about 20-30 min.
  ```
@@ -55,15 +55,15 @@ Pre-work check-ins should only last about 20-30 min.
   TOTAL: Approximately 25m
  ```
 
-###### Intro
+### Intro
 
 Ask the student how they are feeling about the pre-work. This is an opportunity to find out if something is hindering their completion of the pre-work and if our team can provide further support. Let the student know that we will take the first few minutes reviewing a method that is already written and we'll take the next 10min writing a new method similar to ones already required from the lab.
 
-###### Review
+#### Review
 
 This is an opportunity for a student to walk you through a method they have already written: either `shoe_size` or `num_points_scored`. Instead of asking pointed questions, let the student walk you through the method line by line - this will allow the student to demonstrate their knowledge and you can ensure that the student didn't copy a previous solution.
 
-##### Write a new method
+### Write a new method
 
 Ask the student to write a new method: player_by_number(num). This method should take in a number as an argument and return the name of the first player from either team that has that number.
 
@@ -87,8 +87,7 @@ Questions to ask are: Why did you choose this iterator? What are the arguments o
 
 Use this time to understand a student's process in approaching the new problem. This could be beneficial to the lead and instructional team for that new cohort. It is also a good teaching moment - course-correct the `sandwich pattern` if it is apparent the student is using that appraoch. Are there better iterators that could have been implemented? Could we have split this method up by using helper method?(ex: `players` that returns an array of players)
 
-
-###### Wrap Up
+### Wrap Up
 
 Use the last few minutes to discuss the student's game plan for completing the rest of the labs before the program.
   'What time do you work best?'
