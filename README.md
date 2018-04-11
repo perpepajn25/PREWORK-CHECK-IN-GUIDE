@@ -7,7 +7,7 @@ The purpose of a pre-work check-in is to ensure that a student is ready for Day 
 
 The manager of faculty for that campus will reach out to instructors on sight if students need a pre-work check-in. When an instructor volunteers, the faculty manager invites both the student and the assigned instructor to a meeting. The instructor will then follow up with an email to the student containing a Zoom meeting link the morning of the check-in.
 
-##### Example
+#### Example
 ```
 "Hello [Student Name],
 
@@ -59,7 +59,7 @@ Pre-work check-ins should only last about 20-30 min.
 
 Ask the student how they are feeling about the pre-work. This is an opportunity to find out if something is hindering their completion of the pre-work and if our team can provide further support. Let the student know that we will take the first few minutes reviewing a method that is already written and we'll take the next 10min writing a new method similar to ones already required from the lab.
 
-#### Review
+### Review
 
 This is an opportunity for a student to walk you through a method they have already written: either `shoe_size` or `num_points_scored`. Instead of asking pointed questions, let the student walk you through the method line by line - this will allow the student to demonstrate their knowledge and you can ensure that the student didn't copy a previous solution.
 
