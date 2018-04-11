@@ -27,7 +27,7 @@ In the event that the student has not finished the Hashketball lab prior to your
 
 See how they do with iterations:
 
-How can we pick out only the odd numbers from an array of intergers?
+How can we pick out only the odd numbers from an array of integers?
 
 ```
 [1,2,3,4,5].select do |num|
