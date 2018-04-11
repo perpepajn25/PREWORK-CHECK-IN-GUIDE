@@ -38,7 +38,7 @@ end
 
 Students may also use `.each` and push all the odd numbers into a new array which is acceptable but keep in mind it would be worth mentioning that there might be a more concise solution.
 
-Following this review, schedule another check-in with the student no later than Friday morning of that week. This will allow enough time for communication between admissions and the student. If the student is still not up to pace, the student may need to defer to a later date. Use the information gathered from this check-in and their position in the pre-work to help dictate how much time to give the student before the next check-in. Emphasize the importance of getting through Hashketball prior to the next check-in. Follow up with the manager of faculty with that campus with the feedback from this check-in and the newly scheduled follow-up check-in. 
+Following this review, schedule another check-in with the student no later than Friday morning of that week. This will allow enough time for communication between admissions and the student. If the student is still not up to pace, the student may need to defer to a later date. Use the information gathered from this check-in and their position in the pre-work to help dictate how much time to give the student before the next check-in. Emphasize the importance of getting through Hashketball prior to the next check-in. Follow up with the manager of faculty of that campus with the feedback from this check-in and the newly scheduled follow-up check-in. 
 
 
 ## Hashketball Review
