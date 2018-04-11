@@ -46,11 +46,14 @@ Following this review, schedule another check-in with the student no later than 
 ##### Overview
 
 Pre-work check-ins should only last about 20-30 min.
+ ```
   1. **5min** Intro
   2. **5min** Review of an existing method from the lab
   3. **10min** Ask the student to write a new method using the game_hash
   4. **5min** Address any questions or concerns
+  --
   TOTAL: Approximately 25m
+ ```
 
 ###### Intro
 
