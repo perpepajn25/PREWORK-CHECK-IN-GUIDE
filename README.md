@@ -73,7 +73,7 @@ def player_by_number(num)
   players = game_hash.map do |team_key, team_value|
     team_value[:players]
   end.flatten
-  ## find the player who's number matches the argument
+  ## find the player whose number matches the argument
   players.find do |player|
     player[:number] == num
   end.fetch(:player_name)
