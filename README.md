@@ -1,4 +1,4 @@
-# Pre-Work Check Ins
+# Pre-Work Check-Ins
 
 The purpose of a pre-work check-in is to ensure that a student is ready for Day 1. It is our chance to assess the student's progress with the pre-work material and confirm the student's readiness to join the in-person immersive program. It is also an opportunity to identify students that might need more support from early on.
 
