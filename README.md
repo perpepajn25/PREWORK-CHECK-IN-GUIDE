@@ -5,7 +5,7 @@ The purpose of a pre-work check-in is to ensure that a student is ready for Day 
 
 ## Setup
 
-The manager of faculty for that campus will reach out to instructors on sight if students need a pre-work check-in. When an instructor volunteers, the faculty manager invites both the student and the assigned instructor to a meeting. The instructor will then follow up with an email to the student containing a Zoom meeting link the morning of the check-in.
+The manager of faculty for that campus will reach out to instructors on-site if students need a pre-work check-in. When an instructor volunteers, the faculty manager invites both the student and the assigned instructor to a meeting. The instructor will then follow up with an email to the student containing a Zoom meeting link the morning of the check-in.
 
 #### Example
 ```
@@ -91,6 +91,6 @@ Use this time to understand a student's process in approaching the new problem. 
 
 Use the last few minutes to discuss the student's game plan for completing the rest of the labs before the program.
   'What time do you work best?'
-  'How can you use Goodle and the AAQ feature to assist you?'
+  'How can you use Google and the AAQ feature to assist you?'
 
 After completing the check-in, slack any updates or feedback to the manager of faculty for that campus. 
