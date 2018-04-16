@@ -61,7 +61,7 @@ Ask the student how they are feeling about the pre-work. This is an opportunity 
 
 ### Review
 
-This is an opportunity for a student to walk you through a method they have already written: either `shoe_size` or `num_points_scored`. Instead of asking pointed questions, let the student walk you through the method line by line - this will allow the student to demonstrate their knowledge and you can ensure that the student didn't copy a previous solution.
+This is an opportunity for a student to walk you through a method they have already written: either `shoe_size` or `num_points_scored`. Instead of asking pointed questions, let the student walk you through the method line by line - this will allow the student to demonstrate their knowledge and you can ensure that the student didn't copy a previous solution. You may also find it helpful to review our [solution](https://github.com/learn-co-curriculum/advanced-hashes-hashketball/blob/solution/hashketball.rb) beforehand.
 
 ### Write a new method
 
